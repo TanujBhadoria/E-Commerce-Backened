@@ -5,7 +5,7 @@
 
 
 ## E-R Diagram for the application
-![image](https://github.com/user-attachments/assets/d3bb6f01-a346-4b84-9479-c057eaee03da)
+![E-R Diagram](./ER%20Diagram/E-Commerce%20API%20ER%20Diagram.jpeg?raw=true)
 
 
 
